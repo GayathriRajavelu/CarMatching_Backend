@@ -1,0 +1,67 @@
+[
+    {
+    "id": 1,
+    "name":"Tata Nexon",
+    "price":1000000,
+    "fuel":"Petrol",
+    "mileage":18,
+    "safety":5,
+    "seats":5,
+    "maintenance":4
+    },
+ {
+    "id": 2,
+    "name":"Maruti Suzuki Swift",
+    "price":800000,
+    "fuel":"Petrol",
+    "mileage":21,
+    "safety":4,
+    "seats":5,
+    "maintenance":3
+
+ },
+ {
+    "id": 3,
+    "name ":"Hyundai i20",
+    "price":900000,
+    "fuel":"Petrol",
+    "mileage":19,
+    "safety":4,
+    "seats":5,
+    "maintenance":3
+
+},
+{
+    "id":4,
+    "name":"Honda City",
+    "price":1500000,
+    "fuel":"Petrol",
+    "mileage":17,
+    "safety":5,
+    "seats":5,
+    "maintenance":4
+
+},
+{
+    "id":5,
+    "name":"Mahindra XUV300",
+    "price":1100000,
+    "fuel":"Petrol",
+    "mileage":18,
+    "safety":5,
+    "seats":5,
+    "maintenance":4
+
+},
+{
+    "id":6,
+    "name":"Kia Seltos",
+    "price":1300000,
+    "fuel":"Petrol",
+    "mileage":16,
+    "safety":5,
+    "seats":5,
+    "maintenance":4
+
+}
+]
