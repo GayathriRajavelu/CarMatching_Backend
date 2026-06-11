@@ -7,7 +7,10 @@ const recommendationRoutes= require("./routes/recommendationRoutes");
 const app = express();
 app.use(cors());
 
-app.use(express.json());
+app.use(express.json({
+    origin:"https://carmatching.netlify.app/",
+    credentials:true
+}));
 
 app.get("/", (req, res) => {
     res.json({
